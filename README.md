@@ -1,4 +1,4 @@
-1 - ``gh repo create <nom-du-repo> -p kprykorn/<template> --public``
+1 - ``gh repo create <nom-du-repo> -p kprykorn/nextjs-template --public``
 
 2 - ``gh repo clone kprykorn/<nom-du-repo>``
 
